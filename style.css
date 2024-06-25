@@ -1,9 +1,9 @@
 :root {
     --green: #1ec2cd;
-    --white: #FFFFFF;
-    --black: #c5c7c4;
+    --white: #ffffff;
+    --black: #000000;
   }
-  
+    `
   body {
     background: var(--bg);
     color: var(--fontColor);
